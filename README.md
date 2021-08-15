@@ -6,12 +6,11 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ## Results
 
 Deliverable 1: Determine the Summary Statistics for June; Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
-![alt tag](https://github.com/elrvra/Surfs_Up/blob/main/Resources/Deliverable1_JuneTemps.png)
+![alt tag](https://github.com/elrvra/Surfs_Up/blob/main/Resources/Deliverable1_JuneTemps_.png)
 
 
 Deliverable 2: Determine the Summary Statistics for December; Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 ![alt tag](https://github.com/elrvra/Surfs_Up/blob/main/Resources/Deliverable2_DecemberTemps.png)
-
 
 ## Analysis
 
